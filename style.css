@@ -1,0 +1,103 @@
+body {
+  background-color: #350C45;
+  font-family: montserrat,sans-serif;
+}
+
+nav {
+  background-color: #350C45;
+  font-size: 20px;
+}
+
+.btn_custom {
+  background-color: #FF01A2;
+  border-color: #FF01A2;
+  border-radius: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 20px;
+}
+
+.btn_custom:hover {
+  background-color: #b30071;
+  border-color: #b30071;
+}
+
+.btn_custom:active {
+  background-color: #b30071;
+  border-color: #b30071;
+}
+
+.h1_home{
+  color: white;
+  font-size: 60px;
+  letter-spacing: 3px;
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: lighter;
+  color: #FF01A2;
+  letter-spacing: 2px;
+}
+
+.p_home {
+  color: white;
+}
+
+.logo {
+  border-top-left-radius: 40px;
+  border-bottom-left-radius: 40px;
+  width: 100%;
+}
+
+.log_custom {
+  background-color: white;
+  padding-left: 0px;
+  padding-right: 0px;
+  color: #666666;
+}
+
+.mar_logo_custom {
+  border-top-left-radius: 41px;
+  border-bottom-left-radius: 45px;
+}
+
+.mar_login_custom {
+  border-top-right-radius: 41px;
+  border-bottom-right-radius: 45px;
+}
+
+.h1_login{
+  font-size: 55px;
+}
+
+.form_custom {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+
+.form_tam {
+  width: 60%;
+}
+
+.btn-login {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+
+.link-dec:link {
+  text-decoration: none;
+}
+
+.center_button {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+
+.linha {
+  color: black;
+  width: 70%;
+}
